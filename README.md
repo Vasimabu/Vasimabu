@@ -1,16 +1,84 @@
-## Hi there 👋
+# Hi 👋, I'm Vasim Abu
 
-<!--
-**Vasimabu/Vasimabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer | React | Next.js | NestJS | Node.js | .NET
 
-Here are some ideas to get you started:
+I'm a Full-Stack Developer focused on building scalable web applications,
+REST APIs, authentication systems, and role-based applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 💻 Full-Stack Developer with 2+ years of experience
+- ⚛️ Experienced with React.js and Next.js
+- 🚀 Backend development with NestJS and Node.js
+- 🔷 Experience with C# and .NET
+- 🗄️ PostgreSQL, Prisma and relational databases
+- 🔐 JWT, OAuth 2.0 and Auth0 authentication
+- 👥 Role-Based Access Control (RBAC)
+- 🌐 REST API development
+- 📚 Always learning and improving software architecture
+
+### 🛠️ Tech Stack
+
+#### Frontend
+- React.js
+- Next.js
+- JavaScript
+- TypeScript
+- HTML
+- CSS
+
+#### Backend
+- Node.js
+- NestJS
+- C#
+- .NET / ASP.NET Core
+- REST APIs
+
+#### Database
+- PostgreSQL
+- Prisma
+- SQL
+
+#### Authentication & Security
+- JWT
+- OAuth 2.0
+- Auth0
+- RBAC
+
+#### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+- Docker
+
+### 📌 Featured Projects
+
+#### 🚀 Full-Stack Web Application
+Next.js + NestJS + PostgreSQL application with authentication,
+RBAC and REST APIs.
+
+#### 🤖 Medical AI Chatbot
+AI-powered chatbot application with a modern web interface
+and backend API integration.
+
+#### 🌐 Developer Portfolio
+Personal portfolio showcasing my projects, skills and experience.
+
+### 📈 Currently Learning
+
+- Advanced Next.js
+- NestJS architecture
+- Microservices
+- System design
+- Advanced .NET
+- Cloud deployment
+
+### 📫 Connect With Me
+
+- LinkedIn: [Add your LinkedIn URL]
+- Email: [Add your professional email]
+
+---
+
+⭐ Feel free to explore my repositories and projects!
