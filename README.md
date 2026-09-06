@@ -76,8 +76,8 @@ Personal portfolio showcasing my projects, skills and experience.
 
 ### 📫 Connect With Me
 
-- LinkedIn: [Add your LinkedIn URL]
-- Email: [Add your professional email]
+- LinkedIn: https://www.linkedin.com/in/syed-abuthakir-8804b0213
+- Email: cabu782003@gmail.com
 
 ---
 
