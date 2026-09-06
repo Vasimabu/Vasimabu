@@ -21,6 +21,7 @@ REST APIs, authentication systems, and role-based applications.
 
 #### Frontend
 - React.js
+- Angular
 - Next.js
 - JavaScript
 - TypeScript
@@ -29,6 +30,7 @@ REST APIs, authentication systems, and role-based applications.
 
 #### Backend
 - Node.js
+- Express.js
 - NestJS
 - C#
 - .NET / ASP.NET Core
@@ -61,9 +63,6 @@ RBAC and REST APIs.
 #### 🤖 Medical AI Chatbot
 AI-powered chatbot application with a modern web interface
 and backend API integration.
-
-#### 🌐 Developer Portfolio
-Personal portfolio showcasing my projects, skills and experience.
 
 ### 📈 Currently Learning
 
