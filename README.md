@@ -1,6 +1,6 @@
 # Hi 👋, I'm Abu
 
-### Full-Stack Developer | React | Next.js | NestJS | Node.js | .NET
+### Full-Stack Developer | .NET | React | Angular | Next.js | Node.js | NestJS | 
 
 I'm a Full-Stack Developer focused on building scalable web applications,
 REST APIs, authentication systems, and role-based applications.
