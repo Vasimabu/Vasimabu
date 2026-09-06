@@ -1,4 +1,4 @@
-# Hi 👋, I'm Vasim Abu
+# Hi 👋, I'm Abu
 
 ### Full-Stack Developer | React | Next.js | NestJS | Node.js | .NET
 
